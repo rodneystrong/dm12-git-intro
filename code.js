@@ -7,3 +7,5 @@ function tellMe() {
 }
 
 tellMe();
+
+var anotherVar = 50;
